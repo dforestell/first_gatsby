@@ -6,4 +6,6 @@ export default () => <div>
 						<Link to="/page-2/"> Page 2 </Link>
 						<br />
 						<Link to="/dir1/page-3/"> Page 3</Link> 
+						<br />
+						<Link to="/counter/"> Counter</Link> 
 					</div>
