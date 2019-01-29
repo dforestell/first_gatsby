@@ -6,7 +6,7 @@ class Counter extends React.Component {
 		this.state = {count: 0}
 	}
 	render() {
-		return <div>
+		return <div style={{ color: this.props.color}}>
 		<h1>Counter</h1>
 		<p>current count: {this.state.count} </p>
 		<button onClick={()=> 

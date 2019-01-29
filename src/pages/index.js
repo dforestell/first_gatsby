@@ -8,5 +8,5 @@ export default () => <div>
 						<br />
 						<Link to="/dir1/page-3/"> Page 3</Link> 
 						<br />
-						<Counter/>
+						<Counter color="purple"/>
 					</div>
